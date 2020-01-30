@@ -3,7 +3,7 @@
 Official Golang implementation of the EtherCore protocol.
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/ethercore/go-ethercore)](https://goreportcard.com/report/github.com/ethercore/go-ethercore)
-[![Travis](https://travis-ci.org/ethercoreorg/go-ethercore.svg?branch=master)](https://travis-ci.org/ethercoreorg/go-ethercore)
+[![Travis](https://travis-ci.org/ethercore/go-ethercore.svg?branch=master)](https://travis-ci.org/ethercore/go-ethercore)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.io/ethercore)
 
 Automated builds are available for stable releases and the unstable master branch. Binary
